@@ -1,16 +1,16 @@
 <div align="center">
 
 <pre>
-╔════════════════════════════════════════════════╗
-║  root@github:~$ ./iniciar_perfil.sh             ║
-║  &gt; Carregando sistema..................[ OK ]   ║
-║  &gt; Conectando à rede....................[ OK ]  ║
-║  &gt; Autenticando desenvolvedor(a)........[ OK ]  ║
-║  &gt; Hello World...                     ║
-╚════════════════════════════════════════════════╝
++----------------------------------------------+
+ root@github:~$ ./iniciar_perfil.sh
+ &gt; Carregando sistema..................[ OK ]
+ &gt; Conectando à rede....................[ OK ]
+ &gt; Autenticando desenvolvedor(a)........[ OK ]
+ &gt; Hello World...
++----------------------------------------------+
 </pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=Estudante+de+Desenvolvimento+de+Sistemas;SENAI_+%3E+aprendendo+front-end%2C+mobile+e+back-end;sempre+debugando%2C+sempre+evoluindo;root%40dev%3A~%24+_)](https://github.com/ManuelySViana)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=400&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=800&height=50&lines=Estudante+de+Desenvolvimento+de+Sistemas;SENAI_+%3E+aprendendo+front-end%2C+mobile+e+back-end;sempre+debugando%2C+sempre+evoluindo;root%40dev%3A~%24+_)](https://github.com/ManuelySViana)
 
 ![Status](https://img.shields.io/badge/status-aberto_a_oportunidades-00FF41?style=for-the-badge&labelColor=000000)
 ![Visitas](https://komarev.com/ghpvc/?username=ManuelySViana&color=00FF41&style=for-the-badge&label=VISITAS)
@@ -44,7 +44,7 @@ Status       : compilando conhecimento...
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=%2300FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
@@ -92,10 +92,11 @@ Status       : compilando conhecimento...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManuelySViana&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelySViana&theme=matrix&hide_border=true&background=0D1117" alt="Streak do GitHub" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ManuelySViana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=39FF14&border_color=00FF41" alt="Estatísticas do GitHub" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelySViana&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelySViana&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideLabels=00FF41&sideNums=00FF41&dates=39FF14" alt="Streak do GitHub" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelySViana&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14" alt="Linguagens mais usadas" height="165"/>
 
 </div>
 
@@ -114,7 +115,7 @@ Status       : compilando conhecimento...
 <div align="center">
 
 ```txt
-$ echo "obrigado por passar por aqui"
+echo "obrigado por passar por aqui"
 > The Matrix has you...
 > conexão encerrada_
 ```
