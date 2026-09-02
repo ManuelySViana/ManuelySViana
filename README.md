@@ -3,7 +3,7 @@
 <pre>
 +----------------------------------------------+
  root@github:~$ ./iniciar_perfil.sh
- &gt; Carregando sistema..................[ OK ]
+ &gt; Carregando sistema...................[ OK ]
  &gt; Conectando à rede....................[ OK ]
  &gt; Autenticando desenvolvedor(a)........[ OK ]
  &gt; Hello World...
