@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <pre>
 +----------------------------------------------+
@@ -10,6 +10,10 @@
 +----------------------------------------------+
 </pre>
 
+</div>
+
+<div align="center">
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=400&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=800&height=50&lines=Estudante+de+Desenvolvimento+de+Sistemas;SENAI_+%3E+aprendendo+front-end%2C+mobile+e+back-end;sempre+debugando%2C+sempre+evoluindo;root%40dev%3A~%24+_)](https://github.com/ManuelySViana)
 
 ![Status](https://img.shields.io/badge/status-aberto_a_oportunidades-00FF41?style=for-the-badge&labelColor=000000)
@@ -112,7 +116,7 @@ Status       : compilando conhecimento...
 
 <br>
 
-<div align="center">
+<div>
 
 ```txt
 echo "obrigado por passar por aqui"
